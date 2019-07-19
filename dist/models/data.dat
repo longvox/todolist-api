@@ -1,1 +1,1 @@
-{"last_id":12,"todos":[{"id":2,"text":"abc","completed":true},{"id":4,"text":"Learn Vue.js abc asdasd","completed":false},{"id":6,"text":"leanr abcc dfsdfsdfsdfsdf asdadasd","completed":false},{"id":10,"text":"asdasdasd","completed":false},{"id":11,"text":"bbfsdf","completed":false},{"id":12,"text":"asdasd","completed":false}]}
+{"last_id":3,"todos":[{"id":1,"text":"learn vuex","completed":true}]}
